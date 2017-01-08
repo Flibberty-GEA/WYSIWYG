@@ -1,0 +1,40 @@
+*{
+    color: #100f16;
+    font-family: Georgia;
+}
+
+#my-css-news-title{
+    background-color: #1c2b3a;
+    color: #d1e7e7;
+}
+
+#my-css-summary{
+    background-color: #e7e7e7;
+}
+
+#my-css-logo{
+    background-color: #1c2b3a;
+}
+
+#my-css-name{
+    color: #d1e7e7;
+}
+
+#grean{
+    color: #120e26;
+}
+#wite {
+     color: #eff4f0;
+ }
+.wite {
+    color: #c7f4cd;
+}
+
+#my-css-title{
+    font-size: 18pt;
+    color: #2c255a;
+}
+
+body {
+    background-color: #eceff4;
+}
